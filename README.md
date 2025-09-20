@@ -1,6 +1,6 @@
 # Sai Charitha Konda 
 
-[![Location](https://img.shields.io/badge/Location-Dallas,%40Texas-blue)](#)
+[![Location](https://img.shields.io/badge/Location-Dallas,%20Texas-blue)](#)
 [![Looking For](https://img.shields.io/badge/Looking%20For-Data%20Science%20|%20AI%20Engineer%20|%20ML%20Engineer-brightgreen)](#) 
 
 ---

@@ -1,13 +1,13 @@
 # Sai Charitha Konda 
 
-[![Location](https://img.shields.io/badge/Location-Dallas,%20Texas-blue)](#)
-[![Looking For](https://img.shields.io/badge/Looking%20For-Data%20Science%20|%20AI%20Engineer%20|%20ML%20Engineer-brightgreen)](#) 
+[![Location](https://img.shields.io/badge/Location-Dallas,%20Texas-blue?style=for-the-badge)](#)
+[![Looking For](https://img.shields.io/badge/Looking%20For-Data%20Science%20|%20AI%20Engineer%20|%20ML%20Engineer-brightgreen?style=for-the-badge)](#) 
 
 ## 📩 Connect with me:
-[![Email](https://img.shields.io/badge/Email-charitha08@example.com-purple)](mailto:charitha08@example.com)
-[![Mobile](https://img.shields.io/badge/Mobile-%2B1%20234%20567%208910-orange)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Charitha-08)
+[![Email](https://img.shields.io/badge/Email-charitha08@example.com-purple?style=for-the-badge)](mailto:charitha08@example.com)
+[![Mobile](https://img.shields.io/badge/Mobile-%2B1%20234%20567%208910-orange?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)](https://github.com/Charitha-08)
 
 ---
 

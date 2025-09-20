@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **Charitha-08/Charitha-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -41,5 +39,3 @@ I enjoy working on **LLMs, deep learning pipelines, and scalable AI systems**, a
 ---
 
 ⭐️ Always open to collaborating on exciting AI/ML projects!
-
--->

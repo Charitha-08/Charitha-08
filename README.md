@@ -1,12 +1,7 @@
-## Hi there 👋
-**Charitha-08/Charitha-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sai Charitha Konda 
 
-Here are some ideas to get you started:
-
-# 👋 Hi, I'm Sai Charitha Konda 
-
-🚀 **AI Engineer | Data Scientist | ML Engineer**  
-📍 Dallas, Texas  
+[![Location](https://img.shields.io/badge/Location-Dallas,%20Texas-blue)](#)
+[![Looking For](https://img.shields.io/badge/Looking%20For-Data%20Science%20|%20AI%20Engineer%20|%20ML%20Engineer-brightgreen)](#) 
 
 ---
 

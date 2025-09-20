@@ -5,9 +5,9 @@
 
 ## 📩 Connect with me:
 [![Email](https://img.shields.io/badge/Email-charitha08@example.com-purple?style=for-the-badge)](mailto:charitha08@example.com)
-[![Mobile](https://img.shields.io/badge/Mobile-%2B1%20234%20567%208910-orange?style=for-the-badge)](#)
+[![Mobile](https://img.shields.io/badge/Mobile-%2B1%20716%20292%202836-orange?style=for-the-badge)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/your-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)](https://github.com/Charitha-08)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-red?style=for-the-badge)](https://github.com/Charitha-08)
 
 ---
 

@@ -33,8 +33,6 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 - Built and deployed **Python-based inference pipelines** with Hugging Face Transformers, enabling instruction-aligned document summaries at scale.  
 - Designed **multimodal assistants** with AWS Transcribe and Polly for real-time voice-based document summaries, increasing analyst efficiency by 32%.  
 
----
-
 ### **Software Developer – AI/ML, Wipro**  
 📍 Hyderabad, India | 📅 Jan 2022 – Aug 2023  
 - Developed a scalable **image processing microservice** using OpenCV and REST APIs, reducing preprocessing latency by 64%.  

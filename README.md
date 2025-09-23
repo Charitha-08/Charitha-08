@@ -45,24 +45,26 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 ## 📂 LangChain and RAG based projects
 
 ### 🔹 Agentic LLM HR Assistant  
-*LangChain, Mistral, Google Colab, NVIDIA A100, Python, Flask, REST APIs*  
 - Built an **LLM-driven HR assistant** with LangChain’s Agentic Framework and Mistral, automating job description parsing, salary benchmarking, and interview scheduling.  
 - Achieved **92% accuracy** while reducing HR workflow time by **73%**.  
 - Optimized model training on Google Colab with NVIDIA A100 GPUs, resulting in **42% faster training** and scalable processing.  
 [🔗 View Project](https://github.com/Charitha-08/Agentic-LLM-HR-Assistant)  
 
-### 🔹 AI-Powered Learning Assistant  
-*React.js, Flask, OpenAI GPT-4, Chart.js, Firebase, REST APIs*  
-- Developed a **personalized learning platform** that generates summaries, flashcards, and quizzes from uploaded study materials.  
-- Designed an interactive React dashboard with Chart.js for **progress visualization and real-time insights**.  
-- Integrated Firebase for secure authentication and seamless session management, enhancing the **user learning experience**.  
+### 🔹 AI-Powered Learning Assistant   
+- Built an AI-powered HR assistant using **Groq-Mistral LLMs, LangChain agents, and MongoDB**, automating employee data management and HR workflows.  
+- Enabled **natural language query resolution** to fetch employee details and suggest project-specific teams dynamically.  
+- Designed **agentic workflows** for intelligent decision-making, improving efficiency in HR operations.  
+- Developed an **interactive Streamlit interface** for seamless user interaction with the assistant.  
+- Integrated a **modular backend architecture** with microservices for scalability and maintainability.  
+ 
 [🔗 View Project](https://github.com/Charitha-08/AI-LearningAssistant)  
 
 ---
 
 ## 📂 Deep Learning projects
 
-### 🧪 Lung Cancer Detection using CT Images
+### 🧪 Lung Cancer Detection using CT Images_
+
 - Built a deep learning-based system to detect lung cancer from CT scan images, focusing on early-stage detection to improve survival rates.  
 - Implemented **CNN (Convolutional Neural Networks)** for classifying lung nodules into cancerous and non-cancerous categories with high accuracy.  
 - Applied **image preprocessing techniques** such as normalization, noise reduction, and segmentation to enhance CT scan quality before training.  
@@ -95,10 +97,11 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 - Built and evaluated multiple machine learning models, including an Artificial Neural Network (ANN) using TensorFlow/Keras, leveraging Stratified K-Fold Cross-Validation to enhance accuracy and ensure balanced performance.
 - Optimized model performance through feature standardization and dataset splitting (70:30), identifying potential areas for improvement in hyperparameter tuning and advanced feature engineering techniques.
 
-## 📫 Connect With Me  
-- 📧 **Email:** [charithasai30@gmail.com]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/charitha-konda)  
-- 💻 [GitHub](https://github.com/charitha-08)  
+### 👁️ Detection of Eye State using EEG Signals  
+- Built a machine learning pipeline to classify **eye state (open or closed)** from EEG (Electroencephalogram) signals.  
+- Preprocessed raw EEG data by **removing noise, normalizing signals, and handling artifacts**, ensuring clean input for modeling.  
+- Trained and evaluated multiple ML models (**Random Forest, SVM, k-NN, ANN**) on EEG features, achieving reliable classification accuracy.  
+- Analyzed model performance with metrics like **accuracy, precision, recall, and confusion matrix**, demonstrating the feasibility of EEG-based eye state detection for cognitive research.  
 
 ---
 

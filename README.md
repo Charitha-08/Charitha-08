@@ -42,12 +42,58 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 
 ---
 
-## 📂 Projects  
-🔹 [RAG System for Enterprise Documents](#) – LLM-powered document analysis with GPT-4, LangChain, and embeddings  
-🔹 [Multimodal Document Assistant](#) – Combined speech + text AI for real-time insights  
-🔹 [Image Quality Control (FruiTron)](#) – Automated defect detection with YOLOv8 and OpenCV  
+## 📂 LangChain and RAG based projects
+
+### 🔹 Agentic LLM HR Assistant  
+*LangChain, Mistral, Google Colab, NVIDIA A100, Python, Flask, REST APIs*  
+- Built an **LLM-driven HR assistant** with LangChain’s Agentic Framework and Mistral, automating job description parsing, salary benchmarking, and interview scheduling.  
+- Achieved **92% accuracy** while reducing HR workflow time by **73%**.  
+- Optimized model training on Google Colab with NVIDIA A100 GPUs, resulting in **42% faster training** and scalable processing.  
+[🔗 View Project](https://github.com/Charitha-08/Agentic-LLM-HR-Assistant)  
+
+### 🔹 AI-Powered Learning Assistant  
+*React.js, Flask, OpenAI GPT-4, Chart.js, Firebase, REST APIs*  
+- Developed a **personalized learning platform** that generates summaries, flashcards, and quizzes from uploaded study materials.  
+- Designed an interactive React dashboard with Chart.js for **progress visualization and real-time insights**.  
+- Integrated Firebase for secure authentication and seamless session management, enhancing the **user learning experience**.  
+[🔗 View Project](https://github.com/Charitha-08/AI-LearningAssistant)  
 
 ---
+
+## 📂 Deep Learning projects
+
+### 🧪 Lung Cancer Detection using CT Images
+- Built a deep learning-based system to detect lung cancer from CT scan images, focusing on early-stage detection to improve survival rates.  
+- Implemented **CNN (Convolutional Neural Networks)** for classifying lung nodules into cancerous and non-cancerous categories with high accuracy.  
+- Applied **image preprocessing techniques** such as normalization, noise reduction, and segmentation to enhance CT scan quality before training.  
+- Evaluated the model using performance metrics like **accuracy, precision, recall, and F1-score**, ensuring reliable diagnostic assistance.  
+
+### Feed Forward Neural Network with Backpropagation  
+
+- Built a **feed forward neural network with one hidden layer** and implemented the full forward pass and backpropagation steps from scratch.  
+- Derived and coded the mathematical equations for **linear combinations, activation functions (sigmoid/softmax), and loss computation** to understand model internals.  
+- Represented weights and biases in **matrix form** to streamline computations and clearly track how updates propagate through the network.  
+- Implemented **gradient descent for weight updates**, tested with example datasets, and validated correctness by tracing outputs and error reductions step by step.
+
+---
+
+## 📂 Machine Leaning Projects
+
+### 📌 Loan Status Prediction   
+- Built a **loan approval prediction system** using Kaggle dataset with personal and financial features (income, debt, job type, credit history).  
+- Performed **extensive preprocessing** – handling missing values, duplicates, outliers, and normalization to prepare clean data for modeling.  
+- Experimented with **multiple ML models** (SVM, Random Forest, Decision Tree, Neural Network, etc.), achieving the best accuracy with **SVM (77%)**.  
+- Deployed the final model as a **Flask web application**, enabling users to upload data and instantly predict loan approval status with interactive visualizations.  
+
+### ❤️ Heart Disease Prediction  
+- Developed a **heart disease risk prediction system** using Kaggle health dataset (BMI, smoking, alcohol, age, lifestyle, etc.).  
+- Conducted **data cleaning & EDA** – removed nulls/duplicates, handled outliers, normalized features, and analyzed risk factors across age, gender, and lifestyle.  
+- Applied **six ML algorithms** (Logistic Regression, Naïve Bayes, K-means, SVM, Decision Tree, PCA) to compare.
+
+### 📌 Credit Card Fraud Detection project:
+- Developed a robust credit card fraud detection pipeline, incorporating data preprocessing, duplicate removal, and exploratory data analysis (EDA) to address class imbalance and improve data quality.
+- Built and evaluated multiple machine learning models, including an Artificial Neural Network (ANN) using TensorFlow/Keras, leveraging Stratified K-Fold Cross-Validation to enhance accuracy and ensure balanced performance.
+- Optimized model performance through feature standardization and dataset splitting (70:30), identifying potential areas for improvement in hyperparameter tuning and advanced feature engineering techniques.
 
 ## 📫 Connect With Me  
 - 📧 **Email:** [charithasai30@gmail.com]  

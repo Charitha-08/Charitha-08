@@ -45,18 +45,19 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 ## 📂 LangChain and RAG based projects
 
 ### 🔹 Agentic LLM HR Assistant  
-- Built an **LLM-driven HR assistant** with LangChain’s Agentic Framework and Mistral, automating job description parsing, salary benchmarking, and interview scheduling.  
-- Achieved **92% accuracy** while reducing HR workflow time by **73%**.  
-- Optimized model training on Google Colab with NVIDIA A100 GPUs, resulting in **42% faster training** and scalable processing.  
-[🔗 View Project](https://github.com/Charitha-08/Agentic-LLM-HR-Assistant)  
-
-### 🔹 AI-Powered Learning Assistant   
 - Built an AI-powered HR assistant using **Groq-Mistral LLMs, LangChain agents, and MongoDB**, automating employee data management and HR workflows.  
 - Enabled **natural language query resolution** to fetch employee details and suggest project-specific teams dynamically.  
 - Designed **agentic workflows** for intelligent decision-making, improving efficiency in HR operations.  
 - Developed an **interactive Streamlit interface** for seamless user interaction with the assistant.  
 - Integrated a **modular backend architecture** with microservices for scalability and maintainability.  
- 
+[🔗 View Project](https://github.com/Charitha-08/Agentic-LLM-HR-Assistant)  
+
+### 🔹 AI-Powered Learning Assistant   
+- Developed an **interactive learning platform** that generates summaries, quizzes, and flashcards from uploaded documents using **OpenAI GPT-4**.  
+- Built a **React.js frontend with Flask backend**, integrating Chart.js dashboards to track learning progress in real time.  
+- Implemented **secure authentication and session storage with Firebase**, enabling personalized study recommendations.  
+- Supported **multi-format document inputs (PDF, DOCX, TXT)** with seamless content processing and visualization.  
+- Designed use cases for **students, educators, professionals, and researchers**, making the platform versatile across domains.  
 [🔗 View Project](https://github.com/Charitha-08/AI-LearningAssistant)  
 
 ---
@@ -77,6 +78,14 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 - Represented weights and biases in **matrix form** to streamline computations and clearly track how updates propagate through the network.  
 - Implemented **gradient descent for weight updates**, tested with example datasets, and validated correctness by tracing outputs and error reductions step by step.
 
+### 📊 Analyzing Financial Trends in YouTube & Predicting Future Performance
+- Conducted exploratory data analysis (EDA) on a dataset of 995 YouTube channels, uncovering strong correlations between subscribers, views, and revenue potential.
+- Implemented data preprocessing (handling duplicates, missing values, outliers, and normalization) to ensure a clean and reliable dataset for financial modeling.
+- Built and compared multiple models — Linear Regression, Lasso, Random Forest, and XGBoost — achieving up to 52% prediction accuracy in forecasting yearly channel revenue.
+- Identified top-earning content categories (Entertainment, Education, and Music) and provided strategic insights for optimizing growth and revenue generation.
+- Proposed future enhancements including sentiment analysis of comments and advanced ensemble modeling to improve revenue forecasting and audience targeting.
+
+
 ---
 
 ## 📂 Machine Leaning Projects
@@ -85,7 +94,14 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 - Built a **loan approval prediction system** using Kaggle dataset with personal and financial features (income, debt, job type, credit history).  
 - Performed **extensive preprocessing** – handling missing values, duplicates, outliers, and normalization to prepare clean data for modeling.  
 - Experimented with **multiple ML models** (SVM, Random Forest, Decision Tree, Neural Network, etc.), achieving the best accuracy with **SVM (77%)**.  
-- Deployed the final model as a **Flask web application**, enabling users to upload data and instantly predict loan approval status with interactive visualizations.  
+- Deployed the final model as a **Flask web application**, enabling users to upload data and instantly predict loan approval status with interactive visualizations.
+
+### 🫁 Respiratory Disease Diagnosis using Exasens Dataset
+- Analyzed the Exasens medical dataset (401 samples across COPD, Asthma, Infected, and Healthy groups) to improve diagnostic accuracy for respiratory diseases.
+- Performed data cleaning & preprocessing – type conversion, missing value handling (imputation/deletion), duplicate removal, scaling, and label encoding.
+- Conducted exploratory data analysis (EDA) using histograms, pie charts, and correlation plots to identify key patterns in smoking, age, and diagnosis.
+- Built classification models (KNN, Decision Tree, Logistic Regression) and clustering methods (K-means, Hierarchical); best results achieved with Decision Tree (58% accuracy) and K-means (silhouette score 0.59).
+- Highlighted risk factors like smoking & age as major indicators, providing healthcare insights for early detection and treatment planning.
 
 ### ❤️ Heart Disease Prediction  
 - Developed a **heart disease risk prediction system** using Kaggle health dataset (BMI, smoking, alcohol, age, lifestyle, etc.).  
@@ -101,7 +117,9 @@ AI Engineer with strong expertise in **Generative AI (GenAI)**, **Natural Langua
 - Built a machine learning pipeline to classify **eye state (open or closed)** from EEG (Electroencephalogram) signals.  
 - Preprocessed raw EEG data by **removing noise, normalizing signals, and handling artifacts**, ensuring clean input for modeling.  
 - Trained and evaluated multiple ML models (**Random Forest, SVM, k-NN, ANN**) on EEG features, achieving reliable classification accuracy.  
-- Analyzed model performance with metrics like **accuracy, precision, recall, and confusion matrix**, demonstrating the feasibility of EEG-based eye state detection for cognitive research.  
+- Analyzed model performance with metrics like **accuracy, precision, recall, and confusion matrix**, demonstrating the feasibility of EEG-based eye state detection for cognitive research.
+
+ 
 
 ---
 
